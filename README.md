@@ -1,3 +1,1 @@
-# **¡Hola! Bienvenidos a mi proyecto!**
-
-
+<p align="center"><h1><b>¡Hola! Bienvenidos a mi proyecto!</b></h1></p>
