@@ -1,1 +1,5 @@
-<p align="center"><h1><b>¡Hola! Bienvenidos a mi proyecto!</b></h1></p>
+<div align="center">
+
+# **¡Hola! Bienvenidos a mi proyecto!**
+
+</div>
